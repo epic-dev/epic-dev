@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Pavel and this is my Dev Card
-<a href="https://app.daily.dev/limar"><img src="https://api.daily.dev/devcards/a10c6b167cad4f3690f9e1ccd2dbae9d.png?r=lra" width="100" alt="Pavel Yuruts's Dev Card"/></a>
+<a href="https://app.daily.dev/limar"><img src="https://api.daily.dev/devcards/a10c6b167cad4f3690f9e1ccd2dbae9d.png?r=lra" width="200" alt="Pavel Yuruts's Dev Card"/></a>
 
 <!--
 **epic-dev/epic-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
