@@ -1,5 +1,20 @@
-### Hi there 👋 I'm Pavel
-<a href="https://app.daily.dev/limar"><img src="https://api.daily.dev/devcards/v2/33e072e10794495f9e3d82444de3caa8.png?type=default&r=ors" width="176" alt="Pavel Yuruts's Dev Card"/></a>
+<div style="display: flex; justify-content: center;">
+<a href="https://fontmeme.com/calligraphy-fonts/"><img src="https://fontmeme.com/permalink/250218/890ac937f09e36b58d01f84e675fc529.png" alt="calligraphy-fonts" border="0"></a>
+</div>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://app.daily.dev/limar"><img src="https://api.daily.dev/devcards/v2/33e072e10794495f9e3d82444de3caa8.png?type=default&r=ors" width="196" alt="Pavel Yuruts's Dev Card"/></a>
+    </td>
+    <td>
+      <p>👋 I'm Pavel, and I'm a passionate Front-End Developer with over 12 years of experience.</p>
+      <p>&nbsp;&nbsp;I have worked in various domains, starting with the travel industry, moving through ad-tech, <br/> and currently focusing on the healthcare sector, utilizing a wide range of development tools.</p>
+      <p>&nbsp;&nbsp;This diverse experience has exposed me to various front-end technologies and equipped me with <br/> the ability to learn quickly, adapt to new technical stacks efficiently, and apply best practices regardless of the tools used for development.</p>
+    </td>
+  </tr>
+</table>
+
 <!-- <p>📊 My repositories stats</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epic-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,7 +44,6 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="styledcomponents" />
 </div>
-
 
 <!--
 **epic-dev/epic-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
