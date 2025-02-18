@@ -9,8 +9,8 @@
     </td>
     <td>
       <p>👋 I'm Pavel, and I'm a passionate Front-End Developer with over 12 years of experience.</p>
-      <p>&nbsp;&nbsp;I have worked in various domains, starting with the travel industry, moving through ad-tech, <br/> and currently focusing on the healthcare sector, utilizing a wide range of development tools.</p>
-      <p>&nbsp;&nbsp;This diverse experience has exposed me to various front-end technologies and equipped me with <br/> the ability to learn quickly, adapt to new technical stacks efficiently, and apply best practices regardless of the tools used for development.</p>
+      <p>&nbsp;&nbsp;I have worked in various domains, starting with the travel industry, moving through ad-tech, and currently focusing on the healthcare sector, utilizing a wide range of development tools.</p>
+      <p>&nbsp;&nbsp;This diverse experience has exposed me to various front-end technologies and equipped me with the ability to learn quickly, adapt to new technical stacks efficiently, and apply best practices regardless of the tools used for development.</p>
     </td>
   </tr>
 </table>
