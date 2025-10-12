@@ -9,8 +9,8 @@
     </td>
     <td>
       <p>👋 I'm Pavel and I'm a passionate Front-End Developer with over 14 years of experience.</p>
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;I have worked in various domains, starting with the travel industry, moving through ad-tech, and currently focusing on the healthcare sector, utilizing a wide range of development tools.</p>
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;This diverse experience has exposed me to various front-end technologies and equipped me with the ability to learn quickly, adapt to new technical stacks efficiently, and apply best practices regardless of the tools used for development.</p>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;I have worked across various domains, starting in the travel industry, moving into ad-tech and healthcare. Now focusing on the marketing sector while utilizing a wide range of development tools.</p>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;This diverse experience has exposed me to various front-end technologies and equipped me with the ability to learn quickly, adapt to new technical stacks efficiently and apply best practices regardless of the tools used for development.</p>
     </td>
   </tr>
 </table>
@@ -32,11 +32,12 @@
   <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" />
   <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions" />
+  <img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="astro" />
+  <img src="https://img.shields.io/badge/vanilla_extract-F786AD?style=for-the-badge&logo=vanilla-extract&logoColor=white" alt="Vanilla Extract" />
 </div>
 <br/>
 <p>🔭 Also exploring</p>
 <div style="display: flex; justify-content: center;">
-  <img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="astro" />
   <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt" />
