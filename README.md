@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://app.daily.dev/limar"><img src="https://api.daily.dev/devcards/v2/33e072e10794495f9e3d82444de3caa8.png?type=default&r=ors" width="196" alt="Pavel Yuruts's Dev Card"/></a>
+      <a href="https://app.daily.dev/limar"><img src="https://api.daily.dev/devcards/v2/33e072e10794495f9e3d82444de3caa8.png?type=default&r=0cz" width="356" alt="Pavel Yuruts's Dev Card"/></a>
     </td>
     <td>
       <p>👋 I'm Pavel and I'm a passionate Front-End Developer with over 14 years of experience.</p>
