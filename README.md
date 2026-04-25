@@ -8,7 +8,7 @@
       <a href="https://app.daily.dev/limar"><img src="https://api.daily.dev/devcards/v2/33e072e10794495f9e3d82444de3caa8.png?type=default&r=0cz" width="356" alt="Pavel Yuruts's Dev Card"/></a>
     </td>
     <td>
-      <p>👋 I'm Pavel and I'm a passionate Front-End Developer with over 14 years of experience.</p>
+      <p>👋 I'm Pavel and I'm a passionate Web & Mobile Developer with over 14 years of experience.</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;I have worked across various domains, starting in the travel industry, moving into ad-tech and healthcare. Now focusing on the marketing sector while utilizing a wide range of development tools.</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;This diverse experience has exposed me to various front-end technologies and equipped me with the ability to learn quickly, adapt to new technical stacks efficiently and apply best practices regardless of the tools used for development.</p>
     </td>
