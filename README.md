@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" />
+  <img src="https://img.shields.io/badge/bun-f472b6?style=for-the-badge&logo=bun&logoColor=white" alt="bun" />
   <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions" />
 </div>
 <br/>
