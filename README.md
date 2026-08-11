@@ -48,6 +48,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
+<br/>
+<p>Stats</p>
+
+![Profile Views](https://us-central1-personal-web-page-1f740.cloudfunctions.net/badge?user=epic-dev)
 <!--
 **epic-dev/epic-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
