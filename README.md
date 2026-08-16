@@ -9,8 +9,9 @@
     </td>
     <td>
       <p>👋 I'm Pavel and I'm a passionate Web & Mobile Developer</p>
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;I have worked across various domains, starting in the travel industry, moving into ad-tech and healthcare, marketing sector as well, while utilizing a wide range of development tools.</p>
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;This diverse experience has exposed me to various front-end technologies and equipped me with the ability to learn quickly, adapt to new technical stacks efficiently and apply best practices regardless of the tools used for development.</p>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;I have worked across various domains, starting in the travel industry and later moving into ad tech, healthcare, and marketing, while using a wide range of development tools.
+</p>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;This diverse experience has exposed me to a variety of front-end technologies and has equipped me with the ability to learn quickly, adapt to new technical stacks efficiently, and apply best practices regardless of the development tools used.</p>
     </td>
   </tr>
 </table>
